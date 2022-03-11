@@ -155,4 +155,4 @@ void task9()
   Serial.print("\n");
 }
 
-void loop() {}
+void loop() {} // arduino requires void loop(){} to run code
